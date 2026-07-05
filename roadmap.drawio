@@ -1,0 +1,123 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="YRrJbir-0iY9wJJk-M0f">
+    <mxGraphModel dx="1814" dy="1172" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Giai đoạn 4: Lớp Ứng dụng" vertex="1">
+          <mxGeometry height="304" width="330" x="990" y="1698" as="geometry" />
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Giai đoạn 3: Mạng Không gian sâu (DTN &amp; Transport)" vertex="1">
+          <mxGeometry height="353" width="588" x="1013" y="1247" as="geometry" />
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Giai đoạn 2: Băng thông &amp; Cầu nối Internet" vertex="1">
+          <mxGeometry height="329" width="627" x="1621" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Giai đoạn 1: Nền tảng Lõi (Network &amp; Data Link)" vertex="1">
+          <mxGeometry height="280" width="913" x="1618" y="692" as="geometry" />
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="📗 CCSDS 130.1-G&#xa;Tổng quan TM/TC/SPP" vertex="1">
+          <mxGeometry height="78" width="222" x="1972" y="717" as="geometry" />
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="📘 CCSDS 133.0-B&#xa;SPP (Space Packet Protocol)" vertex="1">
+          <mxGeometry height="78" width="260" x="1653" y="869" as="geometry" />
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="📘 CCSDS 132.0-B&#xa;TM (Telemetry Downlink)" vertex="1">
+          <mxGeometry height="78" width="239" x="1963" y="869" as="geometry" />
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="📘 CCSDS 232.0-B&#xa;TC (Telecommand Uplink)" vertex="1">
+          <mxGeometry height="78" width="244" x="2252" y="869" as="geometry" />
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="📗 CCSDS 730.0-G&#xa;Tổng quan AOS" vertex="1">
+          <mxGeometry height="78" width="192" x="1987" y="1095" as="geometry" />
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="📘 CCSDS 732.0-B&#xa;AOS (Advanced Orbiting Systems)" vertex="1">
+          <mxGeometry height="102" width="260" x="1953" y="1272" as="geometry" />
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="📘 CCSDS 133.1-B&#xa;EPP (Encapsulation Packet)" vertex="1">
+          <mxGeometry height="78" width="254" x="1656" y="1095" as="geometry" />
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="📗 CCSDS 713.0-G&#xa;Space Internetworking" vertex="1">
+          <mxGeometry height="78" width="221" x="1186" y="1284" as="geometry" />
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-13" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="📘 CCSDS 734.2-B&#xa;BP (Bundle Protocol)" vertex="1">
+          <mxGeometry height="78" width="207" x="1051" y="1497" as="geometry" />
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-14" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="📘 CCSDS 734.1-B&#xa;LTP (Licklider Transmission)" vertex="1">
+          <mxGeometry height="78" width="257" x="1309" y="1497" as="geometry" />
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="📗 CCSDS 720.1-G&#xa;Tổng quan CFDP" vertex="1">
+          <mxGeometry height="78" width="192" x="1059" y="1723" as="geometry" />
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-16" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="📘 CCSDS 727.0-B&#xa;CFDP (File Delivery Protocol)" vertex="1">
+          <mxGeometry height="102" width="260" x="1025" y="1875" as="geometry" />
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-17" edge="1" parent="1" source="iGTbdJ5Xgozd6DsinEMH-5" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.86;entryX=0.5;entryY=0;rounded=0;" target="iGTbdJ5Xgozd6DsinEMH-6" value="Đọc trước để lấy tư duy">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1783" y="832" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-18" edge="1" parent="1" source="iGTbdJ5Xgozd6DsinEMH-5" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="iGTbdJ5Xgozd6DsinEMH-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-19" edge="1" parent="1" source="iGTbdJ5Xgozd6DsinEMH-5" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.87;entryX=0.5;entryY=0;rounded=0;" target="iGTbdJ5Xgozd6DsinEMH-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2374" y="832" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-20" edge="1" parent="1" source="iGTbdJ5Xgozd6DsinEMH-9" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="iGTbdJ5Xgozd6DsinEMH-10" value="Thay thế/Bổ sung cho TM">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-21" edge="1" parent="1" source="iGTbdJ5Xgozd6DsinEMH-12" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="iGTbdJ5Xgozd6DsinEMH-13" value="Hướng dẫn định tuyến mạng">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1155" y="1399" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-22" edge="1" parent="1" source="iGTbdJ5Xgozd6DsinEMH-12" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="iGTbdJ5Xgozd6DsinEMH-14" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1437" y="1399" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-23" edge="1" parent="1" source="iGTbdJ5Xgozd6DsinEMH-15" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="iGTbdJ5Xgozd6DsinEMH-16" value="Giao thức truyền File">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-24" edge="1" parent="1" source="iGTbdJ5Xgozd6DsinEMH-7" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="iGTbdJ5Xgozd6DsinEMH-9" value="Nâng cấp băng thông ảnh/video">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-25" edge="1" parent="1" source="iGTbdJ5Xgozd6DsinEMH-6" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="iGTbdJ5Xgozd6DsinEMH-11" value="Nhét gói IP/BP vào Mạng vệ tinh">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-26" edge="1" parent="1" source="iGTbdJ5Xgozd6DsinEMH-11" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.28;rounded=0;" target="iGTbdJ5Xgozd6DsinEMH-12" value="Giao thức không gian sâu">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1783" y="1247" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGTbdJ5Xgozd6DsinEMH-27" edge="1" parent="1" source="iGTbdJ5Xgozd6DsinEMH-13" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="iGTbdJ5Xgozd6DsinEMH-15" value="Truyền tệp tin qua mạng DTN">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
